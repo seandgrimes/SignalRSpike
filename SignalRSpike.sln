@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRSpike", "SignalRSpike\SignalRSpike.csproj", "{CC08290C-0E96-463E-A442-A4C3CF9E8F27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC08290C-0E96-463E-A442-A4C3CF9E8F27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC08290C-0E96-463E-A442-A4C3CF9E8F27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC08290C-0E96-463E-A442-A4C3CF9E8F27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC08290C-0E96-463E-A442-A4C3CF9E8F27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85B05B2F-93B7-4F61-BDAD-2689C9DEC1E7}
+	EndGlobalSection
+EndGlobal
